@@ -38,6 +38,7 @@ a:hover,a:focus{
 }
 a{
 	text-indent: 50px;
+	font-size: 150%
 }
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
@@ -95,3 +96,7 @@ main li {
 	padding-bottom: .35em;
 	text-indent: 50px;
 }
+h5{
+	font-size: 150%;
+}
+
