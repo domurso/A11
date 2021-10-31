@@ -36,12 +36,16 @@ footer{
 a:hover,a:focus{
 	font-style:italic;
 }
+a{
+	text-indent: 50px;
+}
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
 header img {
 	float: left;
 	padding: 0 30px;
+	text-indent: 50px;
 }
 main h1 {
 	font-size: 150%;
@@ -68,20 +72,26 @@ main h3 {
 main h2 {
 	font-size: 105%;
 	padding-bottom: .25em;
+	text-indent: 50px;
 }
 main img {
 	padding-bottom: 1em;
+	text-indent: 50px;
 }
 main p {
 	padding-bottom: .5em;
+	text-indent: 50px;
 }
 main blockquote {
 	padding: 0 2em;
 	font-style: italic;
+	text-indent: 50px;
 }
 main ul {
 	padding: 0 0 .25em 1.25em;
+	text-indent: 50px;
 }
 main li {
 	padding-bottom: .35em;
+	text-indent: 50px;
 }
