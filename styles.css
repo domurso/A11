@@ -23,7 +23,7 @@ body {
     font-size: 100%;
     width: 99%;                     /* changed from 800 pixels */
     max-width: 960px;
-    margin: 0 auto;
+    margin: 30 auto;
     border: 3px solid #931420;
     background-color: #fffded;
 }
@@ -37,8 +37,7 @@ a:hover,a:focus{
 	font-style:italic;
 }
 a{
-	text-indent: 50px;
-	font-size: 150%
+	font-size: 125%
 }
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
