@@ -31,11 +31,14 @@ main {
 	clear: left;
 	padding: 0 30px;
 }
-footer{
+footer {
+	background-color: #931420;
+
+}
+footer p {
 	text-align: center;
 	color: white;
-	background-color: #931420;
-	padding 1em 0;
+	padding: 1em 0;
 }
 a:hover,a:focus{
 	font-style:italic;
