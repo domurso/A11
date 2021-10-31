@@ -29,6 +29,9 @@ body {
 }
 footer{
 	text-align: center;
+	color: white
+	background-color: #931420;
+	padding 1em 0;
 }
 a:hover,a:focus{
 	font-style:italic;
