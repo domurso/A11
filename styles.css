@@ -27,23 +27,6 @@ body {
     border: 3px solid #931420;
     background-color: #fffded;
 }
-h1{
-	color: #800000;
-	size: 150%;
-	text-indent: 50px;
-}
-h3{
-	color: #800000;
-	size: 170%;
-	
-
-
-}
-h2{
-	size:130%;
-	font-style: italic;
-	text-indent: 50px;
-}
 footer{
 	text-align: center;
 }
